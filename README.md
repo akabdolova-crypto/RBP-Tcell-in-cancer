@@ -1,2 +1,3 @@
 # rbp-tex-preprint-.
-Dissecting whether RBPs can be one of the key regulators of Tex differentiation from CTL
+- Aim: "exploring the RBPs implication in T cekk exhaustion using public datasets"
+- How to run notebooks: "Open in Google Colab"
