@@ -1,0 +1,2 @@
+therapy,gene,mean_Pre | Responder,sd_Pre | Responder,n_Pre | Responder,mean_Pre | Non-responder,sd_Pre | Non-responder,n_Pre | Non-responder,mean_Post | Responder,sd_Post | Responder,n_Post | Responder,mean_Post | Non-responder,sd_Post | Non-responder,n_Post | Non-responder,p_R_vs_NR_Pre,p_R_vs_NR_Post,p_Pre_vs_Post_Responder_unpaired,n_unpaired_Responder,p_Pre_vs_Post_Non-responder_unpaired,n_unpaired_Non-responder
+anti-CTLA4,ZFP36,2.188331127166748,,1,2.08432674407959,,1,,,0,,,0,,,,0,,0

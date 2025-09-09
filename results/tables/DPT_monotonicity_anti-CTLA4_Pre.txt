@@ -1,0 +1,3 @@
+Order: ['Stem-like', 'T-CM', 'T-EFF/CTL']
+Means: [0.016824470832943916, 0.034955158829689026, 0.09711989015340805]
+Monotonic_non_decreasing: True
